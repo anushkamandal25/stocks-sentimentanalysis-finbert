@@ -1,0 +1,25 @@
+# Environment and secrets
+.env
+.venv/
+venv/
+env/
+
+# Python caches and build artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Anaconda project runtime data
+anaconda_projects/db/
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+quant finance interview questions.me
+finance knowledge.md
